@@ -1,3 +1,5 @@
+OZUVE HORMET ELE!!!
+
 //Q1
 /*
 #include <stdio.h>
